@@ -1,0 +1,137 @@
+body {
+	text-align: center;
+}
+
+/* MAIN HEADING*/
+.heading {
+	margin: 30px auto 0 auto;
+}
+
+.heading h1 {
+	text-transform: uppercase;
+}
+
+.salmon-mode {
+	color: white;
+	background-color: salmon;
+}
+
+/* MAIN IMAGE */
+.main-image {
+	margin-top: 30px;
+}
+
+/* APPEAR/DISAPPEAR BUTTONS*/
+.buttons {
+	margin: 30px auto;
+}
+
+.buttons button {
+	margin: 0 20px;
+	width: 200px;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	background-color: salmon;
+	text-transform: uppercase;
+	padding: 15px;
+}/*END*/
+
+
+/* LIST */
+.main-list {
+	background-color: grey;
+	color: white;
+	padding: 30px;
+}
+
+.list-button {
+	margin-top: 10px;
+	text-align: right;
+}
+
+.list-button button {
+	border: none;
+	border-radius: 5px;
+	color: grey;
+	background-color: white;
+	text-transform: uppercase;
+	padding: 15px;
+}
+
+.list {
+	list-style: none;
+	text-align: left;
+}
+
+.list-item {
+	font-size: 20px;
+}/*END LIST*/
+
+
+/* HOVER DIV */
+.hover-div {
+	padding: 30px;
+}
+
+.hover-div p {
+	margin: 0 auto;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.hover-color {
+	background-color: lightgreen;
+	color: white;
+}/*END*/
+
+/* SLIDE UP DIV */
+.slide-div {
+	text-align: center;
+	padding: 30px;
+	background-color: grey;
+	color: white;
+}
+
+.slide-heading {
+	margin: 0 auto;
+}/*END*/
+
+/* FADE DIV */
+.fade-div {
+	padding: 30px;
+}
+
+.fade-text {
+	padding: 30px;
+	background-color: lightblue;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.fade-button button {
+	border: none;
+	border-radius: 5px;
+	color: white;
+	background-color: grey;
+	text-transform: uppercase;
+	padding: 15px;
+}/*END*/
+
+/* FOOTER */
+.footer {
+	color: white;
+	background-color: salmon;
+	padding: 30px;
+	padding-bottom: 65px;
+}
+
+.footer-text {
+	margin: 0 auto;
+}
+
+.footer-change {
+	font-family: "times new roman";
+	font-size: 36px;
+}
